@@ -1,2 +1,4 @@
 # PythonScrapy-JsonAJAX
-I used Python 3.6, Scrapy, Sqlalchemy, Sqlite and json.loads
+
+## About
+This is a training project to use scrapy framework on one-page scrolling sites and data mining
